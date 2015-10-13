@@ -23,7 +23,7 @@ A Single Page Application Javascript framework that has all the wistles to make 
 
 Takes minutes to setup.
 
-Can be connected to any CMS that supports JSON or setup with a static JSON file.
+Can be connected to any CMS that can return JSON or can be setup with a static JSON file.
 
 Supports standard, nested, overlay pages styles.
 
@@ -39,18 +39,17 @@ To be made public end of 2015.
 
 The framework works out of the box with a static JSON file. Check out the examples/page-types branch.
 
-But it is primairly used to ajax-call a server and receive a JSON response data, see example branches for details.
+But it is primairly used to ajax-call a server and receive a JSON response , see example branches for details.
 
 The repo includes — other than the framework it self.
 - a gulp setup that is geared towards how we work at RWATGG. In theory the Gulp files should not be modified pr. project.
 - stylus mixins 
-- Debug view for the framework, to get up and running with routes and all pages real quick
+- Framework Javascript code.
+- Debug view for the framework. To get up and running with routes and all pages real quick
 
 Dependencies
 Backbone
 RelaxLib (insert link)
-
-
 
 
 #### Get started:
