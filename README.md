@@ -27,9 +27,9 @@ Can be connected to any CMS that supports JSON or setup with a static JSON file.
 
 Supports standard, nested, overlay pages styles.
 
-Has a simple event system that allows for a component structure.
+Has a simple event system that allows for a free component structure.
 
-Build on Backbone to maximum code freedom.
+Build on Backbone for maximum code freedom.
 
 To be made public end of 2015.
 
